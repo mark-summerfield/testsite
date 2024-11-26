@@ -1,7 +1,12 @@
+# test site
+
 index.html
+missing-issues.html
 
 style.css
 
 Year.js
 
 st.sh
+
+# vim: syn=yaml
