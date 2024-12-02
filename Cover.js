@@ -22,4 +22,3 @@ function UpdateCover(elementId) {
 
     setInterval(this.updateCover, 1000 * 110); // < 2 mins
 }
-
